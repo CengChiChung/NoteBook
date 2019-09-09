@@ -12,4 +12,5 @@
 	* [镜像的删除](Chapter2_Dokcer镜像/镜像的删除.md)
 	* [悬虚镜像](Chapter2_Dokcer镜像/悬虚镜像.md)
 	* [镜像的分层](Chapter2_Dokcer镜像/镜像的分层.md)
+	* [镜像的一些特性](Chapter2_Dokcer镜像/镜像的一些特性.md)
 
